@@ -1,0 +1,17 @@
+{
+  "name": "mongogen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.1",
+    "urlib": "^0.0.4",
+    "urllib": "^2.40.0"
+  }
+}

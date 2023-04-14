@@ -1,0 +1,9 @@
+{
+    "token" : "Put-Token-Here",
+    "prefix" : "Prefix",
+    "private_key" : "Private-Key",
+    "public_key" : "Public-Key",
+    "org_Id" : "Org-Id",
+    "owners" : ["Owner-Id", "Owner-Id"]
+
+}
